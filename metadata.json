@@ -1,0 +1,6 @@
+{
+  "name": "Ramez Psychology",
+  "description": "تطبيق علم النفس السلوكي وإدارة العادات والخطط اليومية مع المرشد الذكي Apix والكتاب الإلكتروني",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
